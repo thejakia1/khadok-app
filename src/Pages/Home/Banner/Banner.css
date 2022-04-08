@@ -1,0 +1,28 @@
+.banner{
+    background-image: url(https://img.freepik.com/free-photo/western-food-seafood-shrimp-hamburger_1205-10207.jpg?w=740&t=st=1649084426~exp=1649085026~hmac=863d49ff236c9581a8ab15e702897cfd7a6678fdeb3c2a310c97d85d733bf2b2);
+    padding: 270px 10px;
+    margin-bottom: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .banner:hover{
+    transform: scale(1.1);
+} */
+.bannerItems{
+    color: #bebbbb;
+    padding-left: 130px;
+    margin-top: -180px;
+    font-size: 22px;
+}
+.bannerItems h1{
+    font-size: 52px;
+}
+.bannerBtn{
+    padding: 20px 30px;
+    background-color: #ffc400;
+    color: #000000;
+    font-size: 22px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.Footer{
+    background-color: #F7F9FB;
+    padding: 20px 100px;
+    display: flex;
+    color: #000000bc;
+}
+.footer-title{
+    font-size: 28px;
+}
+.footer1 h2{
+    font-size: 35px;
+}
+.footer1 p{
+    font-size: 18px;
+}
+.footer2{
+    padding-left: 100px;
+}
+.timing{
+    line-height: 5px;
+}
+.footer3{
+    padding-left: 100px;
+}

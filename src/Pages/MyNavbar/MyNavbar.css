@@ -1,0 +1,43 @@
+nav {
+    background: black;
+    height: 80px;
+    width: 100%;
+  }
+  .logo{
+      font-size: 2.5rem;
+      color: white;
+  }
+  nav ul {
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    padding: 0 5px;
+  }
+  nav ul li a {
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  a:hover {
+    background: #cc5d9f;
+    transition: 0.5s;
+  }
+  .checkbtn {
+    line-height: 80px;
+    margin-right: 40px;
+    font-size: 30px;
+    color: white;
+    float: right;
+    cursor: pointer;
+    display: none;
+  }
+  #check {
+    display: none;
+  }
